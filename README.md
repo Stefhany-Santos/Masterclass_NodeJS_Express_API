@@ -3,7 +3,7 @@
 Aqui você encontrará todos os recursos, códigos e exemplos abordados durante a jornada de aprendizado. Prepare-se para dominar o desenvolvimento de backends poderosos e escaláveis! 💻🔥
 
 
-### Dependências Instaladas na Pasta Backend:
+#### Dependências Instaladas na Pasta Backend:
 
 Para iniciar este projeto, você precisará instalar algumas dependências fundamentais. Aqui estão as dependências necessárias e como instalá-las:
 
